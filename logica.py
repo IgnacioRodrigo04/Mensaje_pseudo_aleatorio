@@ -4,6 +4,8 @@ ENCONTRADO = True
 FIN_DE_ORACION = "" 
 
 #pide la ruta de un archivo de chat, lee y separa el contacto y sus mensajes.
+# hola
+# que epico
 def leer_archivo(ruta):
     if not validar_archivo(ruta):
         return
